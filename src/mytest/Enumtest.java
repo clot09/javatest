@@ -3,7 +3,7 @@ package mytest;
 import java.util.Calendar;
 import java.util.Date;
 import java.text.*;
-
+//Ã¶¾Ù²âÊÔ
 public class Enumtest {
 
 	public enum datelist {
