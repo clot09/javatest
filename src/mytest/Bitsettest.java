@@ -35,7 +35,7 @@ public class Bitsettest {
        System.out.println("test1 + test2 and operation is :");
        System.out.println(test2);
 
-       
+        
        test2.or(test1);
        System.out.println("test1+test2 or operation is :");
        System.out.println(test2);
